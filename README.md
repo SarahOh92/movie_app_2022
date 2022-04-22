@@ -1,2 +1,3 @@
-# Movie App 2022
-React JS App 2022 오사라 
+# Movie App 2020
+
+React JS Fundamentals Course 2020
